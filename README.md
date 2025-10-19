@@ -14,21 +14,26 @@ The Site Map Generator is a Python-based application with a graphical user inter
 ## 📦 Requirements
 
 **To run from source:**
-- Python 3.6 or higher
-- PyQt6
-- Requests
-- BeautifulSoup4
+- Python 3.8 or higher
+- PyQt6 >= 6.4.0
+- Requests >= 2.28.0
+- BeautifulSoup4 >= 4.11.0
+- lxml >= 4.9.0
 
 **To build from source:**
 - All of the above, plus:
-- PyInstaller (e.g., PyInstaller >= 4.0)
+- PyInstaller >= 5.0
 
 ## 🚀 Installation
 
-1. Ensure you have Python installed on your system.
+1. Ensure you have Python 3.8 or higher installed on your system.
 2. Install the required packages for running from source:
    ```bash
-   pip install PyQt6 requests beautifulsoup4
+   pip install -r requirements.txt
+   ```
+   Or install packages individually:
+   ```bash
+   pip install PyQt6>=6.4.0 requests>=2.28.0 beautifulsoup4>=4.11.0 lxml>=4.9.0
    ```
 3. To run the application, you can either run it directly from source (see Usage) or build an executable (see Building from Source).
 
@@ -50,7 +55,7 @@ The Site Map Generator is a Python-based application with a graphical user inter
 
 If you wish to build the executable from the source code:
 
-1. Ensure you have Python and the required packages (PyQt6, Requests, BeautifulSoup4) installed.
+1. Ensure you have Python 3.8+ and the required packages installed (see Installation section above).
 2. Clone this repository or download and extract the source files.
 3. Install PyInstaller:
    ```bash
@@ -80,7 +85,7 @@ If you wish to build the executable from the source code:
 - **Application Freezes (Unlikely):** The application uses multithreading to keep the GUI responsive. If it appears to freeze, check for system resource issues or very high network latency.
 - **Building Executable Fails:**
     - Ensure PyInstaller is installed correctly and is the latest version (`pip install --upgrade pyinstaller`).
-    - Verify all dependencies (`PyQt6`, `requests`, `beautifulsoup4`) are installed in the environment where you are running `python setup.py`.
+    - Verify all dependencies are installed: `pip install -r requirements.txt`
     - Consult the output from `setup.py` for specific error messages from PyInstaller.
 
 ## 🤝 Contributing

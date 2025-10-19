@@ -208,5 +208,3 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = SiteMapGeneratorApp()
     sys.exit(app.exec())
-# Keep the original main execution for GUI
-# No changes to the example usage block needed as it's commented out.
