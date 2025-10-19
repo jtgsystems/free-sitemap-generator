@@ -1,5 +1,13 @@
 # 🗺️ Site Map Generator
 
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![PyQt6](https://img.shields.io/badge/PyQt6-6.4+-orange.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
+![GitHub Issues](https://img.shields.io/github/issues/jtgsystems/free-sitemap-generator)
+![GitHub Stars](https://img.shields.io/github/stars/jtgsystems/free-sitemap-generator)
+![GitHub Forks](https://img.shields.io/github/forks/jtgsystems/free-sitemap-generator)
+
 ## 📋 Overview
 The Site Map Generator is a Python-based application with a graphical user interface (GUI) that allows users to generate a site map for a given website. It crawls through all pages within the specified domain and creates a comprehensive list of URLs, providing a clear overview of the website's structure.
 
@@ -91,6 +99,8 @@ If you wish to build the executable from the source code:
 ## 🤝 Contributing
 
 Contributions to improve the Site Map Generator are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
+
+Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## 📄 License
 
