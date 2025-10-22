@@ -105,3 +105,7 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md) 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+### SEO Keyword Cloud
+
+`sitemap` `generator` `crawler` `python` `pyqt6` `gui` `web` `seo` `indexing` `discovery` `urls` `links` `analytics` `architecture` `structure` `navigation` `automation` `crawling` `spider` `performance` `lxml` `requests` `beautifulsoup` `multithreading` `progress` `reporting` `visualization` `export` `xml` `website` `audit` `diagnostics` `optimization` `accessibility` `compliance` `marketing` `content` `developers` `agencies` `freelancers` `startup` `enterprise` `batch` `queue` `resilience` `reliability` `uptime` `monitoring` `insights` `roadmap`
