@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 🗺️ Site Map Generator
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
