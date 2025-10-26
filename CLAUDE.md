@@ -672,3 +672,7 @@ See `LICENSE` file for full text.
 **Last Updated**: 2025-10-26
 **Maintained By**: JTGSYSTEMS
 **Contact**: https://github.com/jtgsystems/free-sitemap-generator/issues
+
+## Framework Versions
+
+
