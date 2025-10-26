@@ -673,6 +673,12 @@ See `LICENSE` file for full text.
 **Maintained By**: JTGSYSTEMS
 **Contact**: https://github.com/jtgsystems/free-sitemap-generator/issues
 
-## Framework Versions
+## Project Dependencies
 
+*Last updated: 2025-10-26*
+
+This is a Python project. See the following files for dependency information:
+
+- `requirements.txt` - Python package dependencies
+- `setup.py` - Package setup configuration
 
