@@ -268,3 +268,23 @@ Made with ❤️ by [JTGSYSTEMS](https://jtgsystems.com)
 
 ### SEO Keyword Cloud
 `sitemap` `generator` `crawler` `python` `pyqt6` `gui` `web` `seo` `indexing` `discovery` `urls` `links` `analytics` `architecture` `structure` `navigation` `automation` `crawling` `spider` `performance` `lxml` `requests` `beautifulsoup` `multithreading` `progress` `reporting` `visualization` `export` `xml` `website` `audit` `diagnostics` `optimization` `accessibility` `compliance` `marketing` `content` `developers` `agencies` `freelancers` `startup` `enterprise` `batch` `queue` `resilience` `reliability` `uptime` `monitoring` `insights` `roadmap` `async` `concurrent` `gzip` `sitemap-index` `image-sitemap` `google` `bing` `search-console`
+
+---
+
+## 🏆 Created by JTG Systems
+
+<div align="center">
+
+<a href="https://jtgsystems.com">
+  <img src="https://raw.githubusercontent.com/jtgsystems/.github/main/assets/jtgsystems-attribution-banner.jpg" alt="JTG Systems - Support & Sponsorship" width="750"/>
+</a>
+
+**Engineered with pride by [JTG Systems](https://jtgsystems.com)**  
+*Enterprise Systems Architecture, Custom Workstations & AI Solutions*
+
+🌐 **Website**: [jtgsystems.com](https://jtgsystems.com)  
+📞 **Contact**: (905) 892-4555  
+☕ **Tips & Sponsorship**: `jtgsystems@gmail.com`
+
+</div>
+
