@@ -103,7 +103,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -139,7 +138,6 @@ cython_debug/
 .ruff_cache/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -152,3 +150,5 @@ Thumbs.db
 # Local development
 *.log
 .python-version
+config.bat
+node_modules
